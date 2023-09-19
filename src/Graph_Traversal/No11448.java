@@ -1,4 +1,4 @@
-//No11448_Ga
+//No11448_Ga_정답
 package Graph_Traversal;
 
 import java.io.BufferedReader;
