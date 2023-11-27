@@ -1,7 +1,8 @@
 //No_B_현이의 로봇 청소기_정답
 
-/*BufferedReader와, Scanner를 같이 사용하면 런타임에러 발생
-정확히는 System.in이 들어간 클래스는 하나만 사용해야 됨*/
+/*백준에서 BufferedReader와, Scanner를 같이 사용하면 런타임에러 발생
+정확히는 System.in이 들어간 클래스는 하나만 사용해야 됨
+일반적인 상황에서는 두 클래스 모두 동시에 사용해도 상관없음*/
 
 package graph_traversal;
 
